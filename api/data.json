@@ -1,0 +1,22 @@
+{
+  "deVs": [
+    {
+      "id": "1",
+      "name": "Rabbani",
+      "skill": "Python Developer",
+      "location": "Patuakhali"
+    },
+    {
+      "id": "2",
+      "name": "Jibon",
+      "skill": "MERN Developer",
+      "location": "Naraiongong"
+    },
+    {
+      "id": "3",
+      "name": "Abir",
+      "skill": "C++ Developer",
+      "location": "Patuakhali"
+    }
+  ]
+}
